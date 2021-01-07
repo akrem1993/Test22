@@ -1,0 +1,10 @@
+C:\Users\akrem\Documents\Visual Studio 2017\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.exe.config
+C:\Users\akrem\Documents\Visual Studio 2017\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.exe
+C:\Users\akrem\Documents\Visual Studio 2017\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.pdb
+C:\Users\akrem\Documents\Visual Studio 2017\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.csprojAssemblyReference.cache
+C:\Users\akrem\Documents\Visual Studio 2017\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.csproj.CoreCompileInputs.cache
+C:\Users\akrem\Documents\Visual Studio 2017\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.exe
+C:\Users\akrem\Documents\Visual Studio 2017\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.pdb
+C:\Users\akrem\Documents\Visual Studio 2017\Projects\CreateClass\CreateClass\bin\Debug\Dapper.dll
+C:\Users\akrem\Documents\Visual Studio 2017\Projects\CreateClass\CreateClass\bin\Debug\Dapper.xml
+C:\Users\akrem\Documents\Visual Studio 2017\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.csproj.CopyComplete
